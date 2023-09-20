@@ -1,0 +1,1 @@
+/home/gabriel/Atv2/devel/.private/ex1_2/share/ex1_2/cmake/ex1_2Config-version.cmake

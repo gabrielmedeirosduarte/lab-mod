@@ -1,0 +1,5 @@
+ex1_2
+/home/gabriel/Atv2/devel/.private/ex1_2/cmake.lock /home/gabriel/Atv2/devel/./cmake.lock
+/home/gabriel/Atv2/devel/.private/ex1_2/lib/pkgconfig/ex1_2.pc /home/gabriel/Atv2/devel/lib/pkgconfig/ex1_2.pc
+/home/gabriel/Atv2/devel/.private/ex1_2/share/ex1_2/cmake/ex1_2Config-version.cmake /home/gabriel/Atv2/devel/share/ex1_2/cmake/ex1_2Config-version.cmake
+/home/gabriel/Atv2/devel/.private/ex1_2/share/ex1_2/cmake/ex1_2Config.cmake /home/gabriel/Atv2/devel/share/ex1_2/cmake/ex1_2Config.cmake

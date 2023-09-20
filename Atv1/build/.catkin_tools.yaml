@@ -1,0 +1,6 @@
+devel_space: /home/gabriel/Atv1/devel
+install: false
+install_space: /home/gabriel/Atv1/install
+profile: default
+source_space: /home/gabriel/Atv1/src
+workspace: /home/gabriel/Atv1

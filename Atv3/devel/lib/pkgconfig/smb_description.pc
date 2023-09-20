@@ -1,0 +1,1 @@
+/home/gabriel/Atv3/devel/.private/smb_description/lib/pkgconfig/smb_description.pc

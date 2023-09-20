@@ -1,0 +1,4 @@
+Symlinking /home/gabriel/Atv2/devel/lib/libodometry_source_plugin.so
+Symlinking /home/gabriel/Atv2/devel/lib/pkgconfig/smb_gazebo.pc
+Symlinking /home/gabriel/Atv2/devel/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake
+Symlinking /home/gabriel/Atv2/devel/share/smb_gazebo/cmake/smb_gazeboConfig.cmake

@@ -1,0 +1,4 @@
+<launch>
+    <node name="publisher" pkg="ex1_1" type="publicador_ex1.py" />
+    <node name="subscriber" pkg="ex1_1" type="sub_inscrito_ex1.py" output="screen" />
+</launch>

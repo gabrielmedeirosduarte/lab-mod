@@ -1,0 +1,5 @@
+smb_common/smb_description
+/home/gabriel/Atv2/devel/.private/smb_description/cmake.lock /home/gabriel/Atv2/devel/./cmake.lock
+/home/gabriel/Atv2/devel/.private/smb_description/lib/pkgconfig/smb_description.pc /home/gabriel/Atv2/devel/lib/pkgconfig/smb_description.pc
+/home/gabriel/Atv2/devel/.private/smb_description/share/smb_description/cmake/smb_descriptionConfig-version.cmake /home/gabriel/Atv2/devel/share/smb_description/cmake/smb_descriptionConfig-version.cmake
+/home/gabriel/Atv2/devel/.private/smb_description/share/smb_description/cmake/smb_descriptionConfig.cmake /home/gabriel/Atv2/devel/share/smb_description/cmake/smb_descriptionConfig.cmake

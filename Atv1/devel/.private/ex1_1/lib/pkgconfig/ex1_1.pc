@@ -1,0 +1,8 @@
+prefix=/home/gabriel/Atv1/devel/.private/ex1_1
+
+Name: ex1_1
+Description: Description of ex1_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
