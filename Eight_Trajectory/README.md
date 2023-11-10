@@ -1,1 +1,1 @@
-
+Controlador Proporcional
